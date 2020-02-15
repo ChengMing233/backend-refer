@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: refer
+  profiles:
+    active: dev
+
+
